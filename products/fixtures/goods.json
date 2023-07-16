@@ -1,0 +1,146 @@
+[
+{
+  "model": "products.product",
+  "pk": 2,
+  "fields": {
+    "name": "New Balance 550",
+    "description": "— натуральная кожа для верха кроссовок\r\n— стабилизационная вставка в пяточной области\r\n— двухслойная стелькой Ortholite\r\n— рельефный брендинг \"N\"\r\n— крупно перфорированный текстиль для язычка",
+    "price": "20990.00",
+    "quantity": 30,
+    "image": "products_images/2023-07-01_10.36.png",
+    "category": 9
+  }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "name": "converse all star",
+    "description": "— плотный канвас для верха модели \r\n— подмётка из резины \r\n— мидсоль из резины с глянцевым эффектом  \r\n— эмблемы брендинга на пятке\r\n— мягкая пенная стелька с пропиткой OrthoLite",
+    "price": "12800.00",
+    "quantity": 44,
+    "image": "products_images/2023-07-01_10.35.png",
+    "category": 8
+  }
+},
+{
+  "model": "products.product",
+  "pk": 4,
+  "fields": {
+    "name": "adidas Yeezy Slide",
+    "description": "Тапочки Adidas Yeezy Slide унисекс ( т.е. и женские, и мужские ). Представлены в нескольких цветовых решениях.",
+    "price": "4590.00",
+    "quantity": 112,
+    "image": "products_images/2023-07-01_10.36_1.png",
+    "category": 8
+  }
+},
+{
+  "model": "products.product",
+  "pk": 5,
+  "fields": {
+    "name": "New Balance 530",
+    "description": "— натуральная и синтетическая кожа для верха кроссовок\r\n— крупноперфорированный текстиль для язычка\r\n— вставка Abzorb для амортизации\r\n— вставка TPU в средней части подошвы для укрепления\r\n— петля на пятке для быстрого надевания",
+    "price": "19000.00",
+    "quantity": 286,
+    "image": "products_images/2023-07-01_10.36_2.png",
+    "category": 8
+  }
+},
+{
+  "model": "products.product",
+  "pk": 6,
+  "fields": {
+    "name": "New Balance 550",
+    "description": "— натуральная кожа для верха кроссовок\r\n— стабилизационная вставка в пяточной области\r\n— двухслойная стелькой Ortholite\r\n— рельефный брендинг \"N\"\r\n— крупно перфорированный текстиль для язычка",
+    "price": "14990.00",
+    "quantity": 52,
+    "image": "products_images/2023-07-01_10.37_QPI6gkl.png",
+    "category": 8
+  }
+},
+{
+  "model": "products.product",
+  "pk": 7,
+  "fields": {
+    "name": "Cortez x Union LA",
+    "description": "Коллаборационная модель Cortez x Union LA\r\n— плотный текстиль и натуральная замша для верха кроссовок\r\n— пеноматериал Crater Foam для мидсоли\r\n— вставки из резины на пятке и в передней части для укрепления\r\n— пробковый материал для стельки",
+    "price": "13500.00",
+    "quantity": 39,
+    "image": "products_images/2023-07-01_10.34.png",
+    "category": 8
+  }
+},
+{
+  "model": "products.product",
+  "pk": 9,
+  "fields": {
+    "name": "Nike Air Jordan 1 Retro High Pine Green",
+    "description": "Традиционная система шнуровки\r\nПерфорированная вставка\r\nТехнология амортизации Air\r\nКлассическая расцветка\r\nПереиздание культовой модели",
+    "price": "5600.00",
+    "quantity": 47,
+    "image": "products_images/2023-07-05_09.54.png",
+    "category": 8
+  }
+},
+{
+  "model": "products.product",
+  "pk": 10,
+  "fields": {
+    "name": "Jordan 1 Low «Fragment x Travis Scott»",
+    "description": "трехстороннее сотрудничество между звездой хип-хопа, японским брендом уличной одежды и Jordan",
+    "price": "7000.00",
+    "quantity": 56,
+    "image": "products_images/2023-07-05_09.51.png",
+    "category": 8
+  }
+},
+{
+  "model": "products.product",
+  "pk": 11,
+  "fields": {
+    "name": "Nike Air Jordan 1 Low",
+    "description": "— верх кроссовок из сочетания натуральной и синтетической кожи\r\n— фирменная амортизирующая вставка Air\r\n— промежуточная подошва из материала Phylon\r\n— перфорированная кожа в области пальцев\r\n— текстильный язычок",
+    "price": "5750.00",
+    "quantity": 31,
+    "image": "products_images/2023-07-05_09.52.png",
+    "category": 8
+  }
+},
+{
+  "model": "products.product",
+  "pk": 12,
+  "fields": {
+    "name": "Nike Air Jordan 4",
+    "description": "Кроссовки Air Jordan 4 Retro – Четвертые именные кроссовки великого баскетболиста NBA Майкла Джордана.",
+    "price": "8900.00",
+    "quantity": 26,
+    "image": "products_images/2023-07-05_09.51_1.png",
+    "category": 8
+  }
+},
+{
+  "model": "products.product",
+  "pk": 13,
+  "fields": {
+    "name": "Nike Air Force 1",
+    "description": "Кроссовки Nike Air Force 1  – это визитная карточка компании Nike. Свое название кроссовки получили в честь ‘борта номер 1’ президента США",
+    "price": "5000.00",
+    "quantity": 19,
+    "image": "products_images/2023-07-05_09.51_2.png",
+    "category": 8
+  }
+},
+{
+  "model": "products.product",
+  "pk": 14,
+  "fields": {
+    "name": "Jordan 4 Retro “PSG — Paris Saint Germain”",
+    "description": "Air Jordan 4 PSG «Paris Saint Germain» - результат сотрудничества между европейским футбольным клубом и Jordan Brand",
+    "price": "11000.00",
+    "quantity": 8,
+    "image": "products_images/2023-07-05_09.50.png",
+    "category": 8
+  }
+}
+]
